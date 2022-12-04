@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/reWord/reWord.iml" filepath="$PROJECT_DIR$/reWord/reWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/reWordBot.iml" filepath="$PROJECT_DIR$/.idea/reWordBot.iml" />
+    </modules>
+  </component>
+</project>
